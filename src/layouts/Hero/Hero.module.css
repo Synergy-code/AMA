@@ -1,0 +1,16 @@
+.hero{
+    position: relative;
+    height: 57.65vw;
+}
+
+.hero p{
+    position: absolute;
+    right: 1.4583vw;
+    bottom: 2vw;
+}
+.hero img{
+    margin-top: 12.03vw;
+    object-fit: cover;
+    width: 97.08vw;
+    height: 30.3vw;
+}
