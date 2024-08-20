@@ -1,0 +1,9 @@
+.sectionVideo{
+    position: relative;
+    height:  56.25vw;
+}
+.sectionVideo video{
+    object-fit: cover;
+    width: 100%;
+    height: 51vw;
+}

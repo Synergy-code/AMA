@@ -8,9 +8,18 @@
     right: 1.4583vw;
     bottom: 2vw;
 }
-.hero img{
+.imageHero{
     margin-top: 12.03vw;
     object-fit: cover;
     width: 97.08vw;
     height: 30.3vw;
+}
+.crow{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, -0%);
+    
+    width: 35.93vw;
+    
 }
