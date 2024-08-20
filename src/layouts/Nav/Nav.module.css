@@ -11,9 +11,9 @@
 
 .logo {
   cursor: pointer;
-  width: 6.14vw;
+  width: 4.14vw;
   position: fixed;
-  top: 2.29vw;
+  top: 0.5vw;
   left: 50%;
   
   transform: translate(-50%, 0%);
