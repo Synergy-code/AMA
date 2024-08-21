@@ -3,8 +3,8 @@
   height: 0;
 }
 
-body{
-  background-color: #F8F8F8;
+body {
+  background-color: #f8f8f8;
 }
 
 html {
@@ -25,7 +25,7 @@ h2 {
   font-size: 7.54vw;
   font-family: "Anton";
   text-transform: uppercase;
-  color: #3F3EC0;
+  color: #3f3ec0;
 }
 
 h3 {
@@ -35,7 +35,7 @@ h3 {
 
 a,
 p {
-  color: #3F3EC0;
+  color: #3f3ec0;
   font-size: 1.7vw;
   font-family: "Anonymous Pro";
 }
