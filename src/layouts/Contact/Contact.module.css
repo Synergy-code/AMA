@@ -1,0 +1,34 @@
+.contact {
+  position: relative;
+  height: 39.95vw;
+}
+.contact h2 {
+  margin-top: 5.8vw;
+}
+.contact img {
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  width: 34.7vw;
+  height: 28vw;
+}
+
+.info {
+  margin-top: 2.6vw;
+  display: flex;
+  align-items: end;
+  gap: 5.8vw;
+}
+.info a {
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+}
+
+.infoContact {
+  margin-top: 2.6vw;
+}
+.infoContact p:last-child {
+  margin-top: 1.14vw;
+}
