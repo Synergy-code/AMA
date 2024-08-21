@@ -1,0 +1,62 @@
+.donation {
+  padding-top: 10vw;
+  height: 37.95vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  cursor: pointer;
+  position: relative;
+  width: 30.29vw;
+  height: 20.17vw;
+}
+.card svg {
+  position: absolute;
+  top: 0;
+  right: 3vw;
+}
+
+.card1 {
+  border-right: 0.2vw solid #3f3ec0;
+}
+.card img {
+  object-fit: cover;
+
+  width: 15.02vw;
+
+  position: absolute;
+  top: -5.4vw;
+  left: 2vw;
+}
+
+.card2 {
+  width: 37.5vw;
+  border-right: 0.2vw solid #3f3ec0;
+  padding-inline: 3.4vw;
+}
+.card2 h2,
+.card2 p {
+  text-align: center;
+}
+
+.card2 img {
+  left: 5vw;
+  top: -7vw;
+}
+
+.card3 {
+  padding-right: 3.34vw;
+}
+.card3 h2,
+.card3 p {
+  text-align: right;
+}
+.card3 svg {
+  right: 0;
+}
+.card3 img {
+  left: 7vw;
+}

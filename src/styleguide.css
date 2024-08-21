@@ -24,6 +24,8 @@ h1 {
 h2 {
   font-size: 7.54vw;
   font-family: "Anton";
+  text-transform: uppercase;
+  color: #3F3EC0;
 }
 
 h3 {
